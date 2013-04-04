@@ -1,0 +1,18 @@
+{
+  "name": "hyperbridge",
+  "repo": "CamShaft/hyperbridge",
+  "description": "Hypermedia bridge for 'REST' apis",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/path-to-regexp": "*",
+    "component/find": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "lib/proto.js",
+    "lib/util.js"
+  ]
+}

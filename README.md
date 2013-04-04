@@ -1,4 +1,4 @@
 hyperbridge
 ===========
 
-Hypermedia bridge for 'REST' api's
+Hypermedia bridge for 'REST' apis

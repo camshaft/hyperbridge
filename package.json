@@ -1,0 +1,25 @@
+{
+  "name": "hyperbridge",
+  "version": "0.1.0",
+  "description": "Hypermedia bridge for 'REST' apis",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": "",
+  "author": "Cameron Bytheway <cameron@nujii.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "~0.14.0",
+    "path-to-regexp": "0.0.2",
+    "find": "https://github.com/component/find/archive/master.tar.gz"
+  },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.9.0",
+    "express": "~3.1.1"
+  }
+}
